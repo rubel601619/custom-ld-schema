@@ -1,12 +1,12 @@
 <?php
 /**
  * Plugin Name:       Custom LD Schema
- * Plugin URI:        https://example.com/plugins/custom-ld-schema/
+ * Plugin URI:        https://github.com/rubel601619/custom-ld-schema
  * Description:       Assign custom JSON-LD schema markup to any supported post type while staying compatible with popular SEO plugins such as Yoast SEO, Rank Math, SEOPress and All in One SEO.
  * Version:           1.0.0
  * Requires at least: 6.0
  * Requires PHP:      8.0
- * Author:            Custom LD Schema
+ * Author:            Rubel Mahmud (Sujan)
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       custom-ld-schema
